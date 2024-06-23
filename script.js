@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const footerText = "© GPCSSI' 2024. Made with ❤️ by Samridh Gaur (CW-396). Under the Guidence of my Chief Mentor, Shri Rakshit Tandon.";
+    const footerText = "© GPCSSI' 2024. Made with ❤️ by Samridh (CW-396). Under the Guidence of my Chief Mentor, Shri Rakshit Tandon.";
     const mainHeadingText = "SN0WFOX OSINT";
     let i = 0;
     const speed = 100; // typing speed in milliseconds
